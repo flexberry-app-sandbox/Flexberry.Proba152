@@ -1,0 +1,80 @@
+﻿{
+  "applicationCaption": "Menu",
+  "applicationTitle": "Menu",
+  "items": [
+    {
+      "link": null,
+      "menuName": "информация-об-организации",
+      "caption": "Информация об организации",
+      "title": "Информация об организации",
+      "children": [
+        {
+          "link": "i-i-s-proba15-вакант-должн-l",
+          "menuName": null,
+          "caption": "Вакантная должность",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-proba15-организация-l",
+          "menuName": null,
+          "caption": "Организация",
+          "title": "",
+          "children": null
+        }
+      ]
+    },
+    {
+      "link": null,
+      "menuName": "документы",
+      "caption": "Документы",
+      "title": "Документы",
+      "children": [
+        {
+          "link": "i-i-s-proba15-рег-результ-l",
+          "menuName": null,
+          "caption": "Регистрация результатов собеседования",
+          "title": "Регистрация результатов собеседования",
+          "children": null
+        },
+        {
+          "link": "i-i-s-proba15-планир-собес-l",
+          "menuName": null,
+          "caption": "Планирование собеседования",
+          "title": "Планирование собеседования",
+          "children": null
+        },
+        {
+          "link": "i-i-s-proba15-регист-анкеты-l",
+          "menuName": null,
+          "caption": "Регистрация анкеты кандидата",
+          "title": "Регистрация анкеты кандидата",
+          "children": null
+        }
+      ]
+    },
+    {
+      "link": null,
+      "menuName": "информация-о-сотрудниках",
+      "caption": "Информация о сотрудниках",
+      "title": "Информация о сотрудниках",
+      "children": [
+        {
+          "link": "i-i-s-proba15-должн-сотр-l",
+          "menuName": null,
+          "caption": "Должность сотрудника",
+          "title": "Должность сотрудника",
+          "children": null
+        },
+        {
+          "link": "i-i-s-proba15-сотрудники-l",
+          "menuName": null,
+          "caption": "Сотрудники",
+          "title": "Сотрудники",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}
